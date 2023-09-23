@@ -29,6 +29,20 @@
 # Product Images should be optimized for size and dimensions
 # All the links(size, Pincode check, etc) about the product should be functional.
 --------------------------------------------------------------------------------------------------------------
-# 
+# Shopping Cart
+# Test that all items are added to the cart
+# Test that all added items have at least a quantity, price, and delete option associated with it
+# Test that the user can increase/decrease the quantity from the cart
+# If a user adds the same item to the cart the amount of that item should increase in the cart
+# On closing the tab/leaving the site, the items should still be in the cart upon returning to the website.
+---------------------------------------------------------------------------------------------------------------
+# Checkout Page
+# User should be able to add coupons
+# The user should be shown the total amount with the necessary breakup as applicable.
+# The user should be able to select the desired payment method
+# On adding more items or increasing/decreasing quantity, the total should change accordingly
+# Calculate shipping costs based on shipping methods
+# The right address should be selected and the user should be able to edit/add the address
+----------------------------------------------------------------------------------------------------------------
 
 
